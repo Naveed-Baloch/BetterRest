@@ -14,6 +14,7 @@
 		1D3340EE2C6BAC87007E7B8C /* BetterRestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3340ED2C6BAC87007E7B8C /* BetterRestTests.swift */; };
 		1D3340F82C6BAC87007E7B8C /* BetterRestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3340F72C6BAC87007E7B8C /* BetterRestUITests.swift */; };
 		1D3340FA2C6BAC87007E7B8C /* BetterRestUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D3340F92C6BAC87007E7B8C /* BetterRestUITestsLaunchTests.swift */; };
+		1D70FC462C6F8D25004F8509 /* SleepCalculator.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 1D70FC452C6F8D25004F8509 /* SleepCalculator.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		1D3340F32C6BAC87007E7B8C /* BetterRestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BetterRestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		1D3340F72C6BAC87007E7B8C /* BetterRestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BetterRestUITests.swift; sourceTree = "<group>"; };
 		1D3340F92C6BAC87007E7B8C /* BetterRestUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BetterRestUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1D70FC452C6F8D25004F8509 /* SleepCalculator.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = SleepCalculator.mlmodel; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				1D3340DC2C6BAC86007E7B8C /* BetterRestApp.swift */,
 				1D3340DE2C6BAC86007E7B8C /* ContentView.swift */,
+				1D70FC452C6F8D25004F8509 /* SleepCalculator.mlmodel */,
 				1D3340E02C6BAC87007E7B8C /* Assets.xcassets */,
 				1D3340E22C6BAC87007E7B8C /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D3340DF2C6BAC86007E7B8C /* ContentView.swift in Sources */,
+				1D70FC462C6F8D25004F8509 /* SleepCalculator.mlmodel in Sources */,
 				1D3340DD2C6BAC86007E7B8C /* BetterRestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
