@@ -25,7 +25,7 @@ BetterRest is a sleep recommendation app which uses machine learning (Core ML) t
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/BetterRest.git
+    git clone https://github.com/naveed-baloch/BetterRest.git
     ```
 2. Open the project in Xcode:
     ```sh
